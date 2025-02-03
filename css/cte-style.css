@@ -1,0 +1,19 @@
+/* CTE Jeopardy Styles */
+:root {
+    --jeopardy-blue: #060CE9;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background: #000;
+    color: white;
+}
+
+.game-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Rest of the CSS from gameCTE.html */
